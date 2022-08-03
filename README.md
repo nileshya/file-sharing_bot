@@ -1,5 +1,7 @@
 # File-sharing-Bot
-
+this is just a educational purpose repo 
+its not a original repo
+4te original repo is at https://github.com/CodeXBotz/File-Sharing-Bot
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
